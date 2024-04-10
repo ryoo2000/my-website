@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ガーデンライフ - 家庭菜園・ガーデニング用品のアフィリエイトサイト</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>ガーデンライフ</h1>
+        <nav>
+            <ul>
+                <li><a href="#">ホーム</a></li>
+                <li><a href="#">商品紹介</a></li>
+                <li><a href="#">家庭菜園の基礎知識</a></li>
+                <li><a href="#">ブログ</a></li>
+                <li><a href="#">お問い合わせ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h2>家庭菜園を楽しもう！</h2>
+            <p>初心者でも簡単に始められる家庭菜園の情報と、おすすめのガーデニング用品をご紹介します。</p>
+        </section>
+
+        <section id="featured-products">
+            <h2>おすすめ商品</h2>
+            <!-- ここに商品紹介を追加 -->
+        </section>
+
+        <section id="blog-posts">
+            <h2>最新のブログ記事</h2>
+            <!-- ここにブログ記事の一覧を追加 -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 ガーデンライフ</p>
+    </footer>
+</body>
+</html>
